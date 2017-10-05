@@ -1,0 +1,10 @@
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\bin\Debug\netcoreapp2.0\TweeterApp.deps.json
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\bin\Debug\netcoreapp2.0\TweeterApp.runtimeconfig.json
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\bin\Debug\netcoreapp2.0\TweeterApp.runtimeconfig.dev.json
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\bin\Debug\netcoreapp2.0\TweeterApp.dll
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\bin\Debug\netcoreapp2.0\TweeterApp.pdb
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\obj\Debug\netcoreapp2.0\TweeterApp.csproj.CoreCompileInputs.cache
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\obj\Debug\netcoreapp2.0\TweeterApp.AssemblyInfoInputs.cache
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\obj\Debug\netcoreapp2.0\TweeterApp.AssemblyInfo.cs
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\obj\Debug\netcoreapp2.0\TweeterApp.dll
+c:\Deviloa\AG Interview\Version3\TweeterApp\TweeterApp\obj\Debug\netcoreapp2.0\TweeterApp.pdb
